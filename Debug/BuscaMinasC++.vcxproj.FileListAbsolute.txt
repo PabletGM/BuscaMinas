@@ -1,0 +1,2 @@
+C:\Users\pgmla\Desktop\BuscaMinasC++\Debug\BuscaMinasC++.exe
+C:\Users\pgmla\Desktop\BuscaMinasC++\Debug\BuscaMinasC++.pdb

@@ -1,0 +1,5 @@
+﻿  BuscaMinasC++.cpp
+C:\Users\pgmla\Desktop\BuscaMinasC++\BuscaMinasC++.cpp(43,6): warning C4101: 'situacion': variable local sin referencia
+C:\Users\pgmla\Desktop\BuscaMinasC++\BuscaMinasC++.cpp(285,24): warning C4305: '=': truncamiento de 'int' a 'char'
+C:\Users\pgmla\Desktop\BuscaMinasC++\BuscaMinasC++.cpp(285,20): warning C4309: '=': truncamiento de valor constante
+  BuscaMinasC++.vcxproj -> C:\Users\pgmla\Desktop\BuscaMinasC++\Debug\BuscaMinasC++.exe
